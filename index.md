@@ -4,11 +4,11 @@ Hi, my name is Max and I enjoy combining algorithms and computing to bring mathe
 
 ## Short Curriculum Vitae
 
-**02/2019 - now:** Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)\
-**06/2017 - 01/2019:** Senior R&D Engineer & Research Specialist at [Konica Minolta Laboratory Europe](https://research.konicaminolta.com/)\
-**10/2013 - 06/2017:** Postdoctoral Researcher at the Department for [Computer Aided Medical Procedures & Augmented Reality (CAMPAR) at Technical University of Munich](http://campar.in.tum.de)\
-**02/2012 - 09/2013:** Systems Engineer at [Elektroniksystem- und Logistik-GmbH](https://esg.de/)\
-**04/2008 - 10/2011:** Doctoral Student at the Department for [Computer Aided Medical Procedures & Augmented Reality (CAMPAR) at Technical University of Munich](http://campar.in.tum.de)\
+**02/2019 - now:** Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
+**06/2017 - 01/2019:** Senior R&D Engineer & Research Specialist at [Konica Minolta Laboratory Europe](https://research.konicaminolta.com/)<br/>
+**10/2013 - 06/2017:** Postdoctoral Researcher at the Department for [Computer Aided Medical Procedures & Augmented Reality (CAMPAR) at Technical University of Munich](http://campar.in.tum.de)<br/>
+**02/2012 - 09/2013:** Systems Engineer at [Elektroniksystem- und Logistik-GmbH](https://esg.de/)<br/>
+**04/2008 - 10/2011:** Doctoral Student at the Department for [Computer Aided Medical Procedures & Augmented Reality (CAMPAR) at Technical University of Munich](http://campar.in.tum.de)<br/>
 **10/2003 - 03/2008:** Studies in Mathematics at [Technical University of Munich](https://www.tum.de/) and [ETH Zurich](https://ethz.ch)
 
 ## Selected Publications
