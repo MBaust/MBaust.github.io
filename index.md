@@ -6,8 +6,9 @@ In particular, I am interested in applications of machine learning, differential
 
 ## Curriculum Vitae
 
-**06/2019 - now:** Senior Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
-**02/2019 - 05/2019:** Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
+**09/2020 - now:** Head of Algorithm Development at [OneProjects](https://www.one-projects.com/)<br/>
+**06/2019 - 09/2020:** Senior Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
+**02/2019 - 05/2020:** Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
 **06/2017 - 01/2019:** Senior R&D Engineer & Research Specialist at [Konica Minolta Laboratory Europe](https://research.konicaminolta.com/)<br/>
 **10/2013 - 06/2017:** Postdoctoral Researcher at the Department for [Computer Aided Medical Procedures & Augmented Reality (CAMPAR) at Technical University of Munich](http://campar.in.tum.de)<br/>
 **02/2012 - 09/2013:** Systems Engineer at [Elektroniksystem- und Logistik-GmbH](https://esg.de/)<br/>
