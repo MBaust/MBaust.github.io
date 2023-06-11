@@ -1,8 +1,8 @@
 ## Who I am
 
-Hi, my name is Max and I enjoy combining algorithms and computing to bring mathematical concepts to life and create novel and innovative applications. Being a passionate facilitator as well, I like to connect industry and academia to make technological innovations usable as well as advance all individuals sharing the same passion.
+Hi, my name is Max and I enjoy combining algorithms and computing to bring mathematical concepts to life and create novel and innovative applications. Being a passionate facilitator as well, I like to connect industry and academia to make technological innovations usable and advance all individuals sharing the same passion.
 
-In particular, I am interested in applications of machine learning, differential geometry, and numerical techniques to problems in machine vision and image understanding. Good examples include the selected publications listed below. In case you interested in my full list of publications, please have a look at my [google scholar profile](https://scholar.google.com/citations?user=w5ERL_UAAAAJ&hl=en).
+In particular, I am interested in applications of machine learning, differential geometry, and numerical techniques to problems in machine vision and image understanding. Good examples include the selected publications listed below. In case you are interested in my full list of publications, please have a look at my [google scholar profile](https://scholar.google.com/citations?user=w5ERL_UAAAAJ&hl=en).
 
 ## Curriculum Vitae
 
@@ -18,10 +18,7 @@ In particular, I am interested in applications of machine learning, differential
 
 ## Selected Publications
 
-* Slavcheva, M., **Baust, M.**, & Ilic, S. (2020). _Variational Level Set Evolution for Non-rigid 3D Reconstruction from a Single Depth Camera._ IEEE Transactions on Pattern Analysis and Machine Intelligence.
-* **Baust, M.**, & Weinmann, A. (2020). _Manifold-Valued Data in Medical Imaging Applications._ In Handbook of Variational Methods for Nonlinear Geometric Data (pp. 613-647). Springer, Cham.
-* Spier, N., Nekolla, S., Rupprecht, C., Mustafa, M., Navab, N., & **Baust, M.** (2019). _Classification of polar maps from cardiac perfusion imaging with graph-convolutional neural networks._ Scientific reports, 9(1), 1-8.
-* Sharma, K., Rupprecht, C., Caroli, A., Aparicio, M. C., Remuzzi, A., **Baust, M.**, & Navab, N. (2017). _Automatic segmentation of kidneys using deep learning for total kidney volume quantification in autosomal dominant polycystic kidney disease._ Scientific reports, 7(1), 1-10.
-* **Baust, M.**, Yezzi, A., Unal, G., & Navab, N. (2012). _Translation, scale, and deformation weighted polar active contours._ Journal of Mathematical Imaging and Vision, 44(3), 354-365.
-
-
+* Bonev, B., Kurth, T., Hundt, C., Pathak, J., *Baust, M.*, Kashinath, K., & Anandkumar, A. (2023). Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere. arXiv preprint arXiv:2306.03838.
+* Rieke, N., Hancox, J., Li, W., Milletari, F., Roth, H. R., Albarqouni, S., Bakas, S., Galtier, M., Landman, B., Maier-Hein, K., Ourselin, S., Sheller, M., Summers, R., Trask, A., Xu, D., *Baust, M.*, & Cardoso, M. J. (2020). The future of digital health with federated learning. NPJ digital medicine, 3(1), 119.
+* Slavcheva, M., *Baust, M.*, & Ilic, S. (2020). Variational level set evolution for non-rigid 3D reconstruction from a single depth camera. IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(8), 2838-2850.
+* *Baust, M.*, & Weinmann, A. (2020). Manifold-Valued Data in Medical Imaging Applications. Handbook of Variational Methods for Nonlinear Geometric Data, 613-647.
