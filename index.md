@@ -6,7 +6,8 @@ In particular, I am interested in applications of machine learning, differential
 
 ## Curriculum Vitae
 
-**07/2021 - now:** Senior Manager AI Developer Technology EMEA at [NVIDIA](https://www.nvidia.com)<br/>
+**12/2023 - now:** Director Solution Architecture Industries EMEA at [NVIDIA](https://www.nvidia.com)<br/>
+**07/2021 - 11/2023** Senior Manager AI Developer Technology EMEA at [NVIDIA](https://www.nvidia.com)<br/>
 **09/2020 - 06/2021:** Head of Algorithm Development at [OneProjects](https://www.one-projects.com/)<br/>
 **06/2019 - 09/2020:** Senior Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
 **02/2019 - 05/2020:** Manager Solution Architecture Healthcare EMEA at [NVIDIA](https://www.nvidia.com)<br/>
